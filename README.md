@@ -1,6 +1,3 @@
-<div align="center">
-<img src="https://github.com/user-attachments/assets/ed36ed96-142b-4f04-8755-159d1a1c991d" width="100%"/>
-</div>
 
 
 # About Me:
@@ -23,5 +20,8 @@ I'm currently working on Building AI/ML systems — from reinforcement learning 
 
 ---
 [![](https://komarev.com/ghpvc/?username=ka-ori&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+<img src="https://github.com/user-attachments/assets/ed36ed96-142b-4f04-8755-159d1a1c991d" width="100%"/>
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
