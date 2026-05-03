@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=DA7756&height=140&section=header&text=Krishnadevan%20Manju%20Liby&fontColor=F0EAD6&fontSize=36&fontAlignY=55&desc=AI%20%7C%20ML%20%7C%20Full-Stack&descColor=C4906A&descAlignY=75" width="100%"/>
+</div>
+
 
 # About Me:
 I'm currently working on Building AI/ML systems — from reinforcement learning environments for LLM-driven compiler optimization (Arm-Gym) to agentic fleet analytics pipelines with LangGraph and RAG.<br>I'm looking to collaborate on ML research projects, especially around LLM fine-tuning, reinforcement learning, or applied deep learning for real-world problems.<br>Ask me about Machine learning, deep learning, agentic AI workflows, spatiotemporal forecasting, or building end-to-end ML pipelines in Python.
