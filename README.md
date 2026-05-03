@@ -1,12 +1,13 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=DA7756&height=140&section=header&text=Krishna&fontColor=F0EAD6&fontSize=36&fontAlignY=55&desc=AI%20%7C%20ML%20%&descColor=C4906A&descAlignY=75" width="100%"/>
+<img src="https://github.com/user-attachments/assets/ed36ed96-142b-4f04-8755-159d1a1c991d" width="100%"/>
 </div>
 
 
 # About Me:
 I'm currently working on Building AI/ML systems — from reinforcement learning environments for LLM-driven compiler optimization (Arm-Gym) to agentic fleet analytics pipelines with LangGraph and RAG.<br>I'm looking to collaborate on ML research projects, especially around LLM fine-tuning, reinforcement learning, or applied deep learning for real-world problems.<br>Ask me about Machine learning, deep learning, agentic AI workflows, spatiotemporal forecasting, or building end-to-end ML pipelines in Python.
 
-<img width="400" height="80" alt="thinking-animation-discombobulating" src="https://github.com/user-attachments/assets/ed36ed96-142b-4f04-8755-159d1a1c991d" />
+
+<img width="auto" height="auto" alt="thinking-animation-discombobulating" src="https://i.redd.it/1p0r86i5sh251.gif" />
 
 
 
